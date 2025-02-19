@@ -1,1 +1,0 @@
-{"ref":"eb602838-74c6-4fa6-8c62-00cba0ac15cb","syncData":{"version":2,"machineId":"12ca98f0-cb5e-4409-a21a-64c796a23b8f","content":"{\"windows\":\"// Place your key bindings in this file to override the defaultsauto[]\\r\\n[\\r\\n    {\\r\\n        \\\"key\\\": \\\"ctrl+shift+abnt_c1\\\",\\r\\n        \\\"command\\\": \\\"jupyter.runFileInteractive\\\"\\r\\n    }\\r\\n]\"}"}}

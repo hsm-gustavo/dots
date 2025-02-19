@@ -1,15 +1,8 @@
-autologin.saved_credentials="{\"kisamehoshikage\":[\"kisamehoshikage\",\"VZ61G0AqHe7BecfVpauNVtyqIxFIGFjZGU7FCMJWtOIz24Vbf642CmWpbsGfjlzu8YXIDhpYyufam81N4O8pVdVfEr4F3MRqVcI32fA/c5OKHEnoD3HEYyEiIqse5LtbHiZqwM3rILxl676G0hpiLKvmvlGr/1zCGFiEqfrGKAxDumPNjNoOq65hD0xy8QX2xXrtlFSW+RGUhLe9NwEC4GAdKGgJXdNjRRqoTrSCR8SA/bH95ri+tzmDBTmYHSLHAlQv7N1oFwBTFGBaee6G9Q==\"]}"
-autologin.blob="VZ61G0AqHe7BecfVpauNVtyqIxFIGFjZGU7FCMJWtOIz24Vbf642CmWpbsGfjlzu8YXIDhpYyufam81N4O8pVdVfEr4F3MRqVcI32fA/c5OKHEnoD3HEYyEiIqse5LtbHiZqwM3rILxl676G0hpiLKvmvlGr/1zCGFiEqfrGKAxDumPNjNoOq65hD0xy8QX2xXrtlFSW+RGUhLe9NwEC4GAdKGgJXdNjRRqoTrSCR8SA/bH95ri+tzmDBTmYHSLHAlQv7N1oFwBTFGBaee6G9Q=="
+autologin.saved_credentials="{\"kisamehoshikage\":[\"kisamehoshikage\",\"rdbLpcfNs9SBDZUC26dvj2U8Pp9DkxP9Mily+ecoeJgVvLJ5nTNxXb30JlHP9J2vp+yt6Fq9TIFXHYcSPLJKPGEoaQwnmaX662m5VLTVXTrdvbKyRwwqOeDbEJTaXzXuaVBCYrmcLAaudUxLmKFEpPko7MM14Tb16Rqez72Gg9DF/AK5gkEEHbeAc8oFJfT1f6CICczdE2DmrFQMFqRHER5T7UL3fxEKOeaXvt5cHTRT0ZlQOnA8GyG9x9oD8ZictDiN9x/GzX7+8t9OWqOOaw==\"]}"
+autologin.blob="rdbLpcfNs9SBDZUC26dvj2U8Pp9DkxP9Mily+ecoeJgVvLJ5nTNxXb30JlHP9J2vp+yt6Fq9TIFXHYcSPLJKPGEoaQwnmaX662m5VLTVXTrdvbKyRwwqOeDbEJTaXzXuaVBCYrmcLAaudUxLmKFEpPko7MM14Tb16Rqez72Gg9DF/AK5gkEEHbeAc8oFJfT1f6CICczdE2DmrFQMFqRHER5T7UL3fxEKOeaXvt5cHTRT0ZlQOnA8GyG9x9oD8ZictDiN9x/GzX7+8t9OWqOOaw=="
 es.send-on-startup=true
 core.clock_delta=0
 autologin.username="kisamehoshikage"
-app.window.position.saved=true
-app.window.position.height=1003
-app.autostart-mode="off"
-app.window.position.y=65
 storage.last-location="/home/gustavo/.cache/spotify/Storage"
-app.window.state.saved=true
-app.window.position.width=1896
-app.window.position.x=12
 autologin.canonical_username="kisamehoshikage"
 app.last-launched-version="1.2.56.502.ga68d2d4f"

@@ -1,6 +1,0 @@
-2025-02-18 13:37:54.757 [info] Marked extension as removed bradlc.vscode-tailwindcss-0.14.4
-2025-02-18 13:37:54.757 [info] Marked extension as removed github.copilot-1.271.0
-2025-02-18 13:37:54.757 [info] Marked extension as removed rust-lang.rust-analyzer-0.3.2299
-2025-02-18 13:37:54.795 [info] Deleted marked for removal extension from disk bradlc.vscode-tailwindcss /home/gustavo/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.4
-2025-02-18 13:37:54.803 [info] Deleted marked for removal extension from disk rust-lang.rust-analyzer /home/gustavo/.vscode/extensions/rust-lang.rust-analyzer-0.3.2299-linux-x64
-2025-02-18 13:37:54.805 [info] Deleted marked for removal extension from disk github.copilot /home/gustavo/.vscode/extensions/github.copilot-1.271.0

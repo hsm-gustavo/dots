@@ -1,5 +1,0 @@
-[default-nodes]
-default.configured.audio.sink=alsa_output.usb-MVS_UKD_Audio_Effect_20180508-00.analog-stereo
-default.configured.audio.source=alsa_input.usb-3142_Fifine_Microphone-00.mono-fallback
-default.configured.audio.source.0=alsa_input.usb-3142_Fifine_Microphone-00.pro-input-0
-default.configured.audio.source.1=alsa_input.usb-MVS_UKD_Audio_Effect_20180508-00.analog-stereo

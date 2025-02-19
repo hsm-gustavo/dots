@@ -1,11 +1,6 @@
 [default-routes]
-alsa_card.pci-0000_00_1b.0:input:analog-input-linein={"mute":false, "channelMap":["FL", "FR"], "latencyOffsetNsec":0, "channelVolumes":[0.999817, 0.999817]}
-alsa_card.pci-0000_00_1b.0:input:analog-input-rear-mic={"mute":false, "channelMap":["FL", "FR"], "latencyOffsetNsec":0, "channelVolumes":[1.000000, 1.000000]}
-alsa_card.pci-0000_00_1b.0:profile:output:iec958-stereo+input:analog-stereo=["analog-input-linein"]
-alsa_card.usb-046d_C270_HD_WEBCAM_200901010001-02:input:analog-input-mic={"latencyOffsetNsec":0, "channelMap":["MONO"], "channelVolumes":[0.999725], "mute":false}
-alsa_card.usb-046d_C270_HD_WEBCAM_200901010001-02:profile:input:mono-fallback=["analog-input-mic"]
-alsa_card.usb-3142_Fifine_Microphone-00:input:analog-input-mic={"channelVolumes":[0.999954], "latencyOffsetNsec":0, "channelMap":["MONO"], "mute":false}
+alsa_card.usb-3142_Fifine_Microphone-00:input:analog-input-mic={"channelMap":["MONO"], "channelVolumes":[1.157585], "mute":false, "latencyOffsetNsec":0}
 alsa_card.usb-3142_Fifine_Microphone-00:profile:input:mono-fallback=["analog-input-mic"]
-alsa_card.usb-MVS_UKD_Audio_Effect_20180508-00:input:analog-input-mic={"channelVolumes":[0.999542, 0.999542], "latencyOffsetNsec":0, "channelMap":["FL", "FR"], "mute":false}
-alsa_card.usb-MVS_UKD_Audio_Effect_20180508-00:output:analog-output={"channelVolumes":[1.000000, 1.000000], "latencyOffsetNsec":0, "channelMap":["FL", "FR"], "mute":false}
+alsa_card.usb-MVS_UKD_Audio_Effect_20180508-00:input:analog-input-mic={"channelMap":["FL", "FR"], "channelVolumes":[0.999954, 0.999954], "mute":false, "latencyOffsetNsec":0}
+alsa_card.usb-MVS_UKD_Audio_Effect_20180508-00:output:analog-output={"channelMap":["FL", "FR"], "channelVolumes":[0.992466, 0.992466], "mute":false, "latencyOffsetNsec":0}
 alsa_card.usb-MVS_UKD_Audio_Effect_20180508-00:profile:output:analog-stereo+input:analog-stereo=["analog-output", "analog-input-mic"]

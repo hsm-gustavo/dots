@@ -82,8 +82,6 @@ dnsmasq
 dnssec-anchors
 dosfstools
 double-conversion
-downgrade
-dracut
 duf
 duktape
 e2fsprogs
@@ -162,7 +160,6 @@ greetd-regreet
 grep
 grim
 groff
-grub
 gsettings-desktop-schemas
 gsettings-system-schemas
 gsm
@@ -269,7 +266,6 @@ inetutils
 intel-ucode
 inxi
 iproute2
-iptables-nft
 iputils
 iso-codes
 iwd
@@ -728,8 +724,6 @@ rav1e
 re2
 readline
 rebuild-detector
-reflector
-reflector-simple
 ripgrep
 rnnoise
 rofi-wayland
@@ -848,7 +842,6 @@ wayland
 wayland-protocols
 webkit2gtk-4.1
 webrtc-audio-processing-1
-welcome
 wget
 which
 wildmidi
@@ -900,10 +893,8 @@ xterm
 xvidcore
 xxhash
 xz
-yad
 yajl
 yasm
-yay
 yazi
 yyjson
 zbar

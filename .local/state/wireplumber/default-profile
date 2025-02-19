@@ -1,3 +1,2 @@
 [default-profile]
-alsa_card.usb-046d_C270_HD_WEBCAM_200901010001-02=input:mono-fallback
 alsa_card.usb-3142_Fifine_Microphone-00=input:mono-fallback

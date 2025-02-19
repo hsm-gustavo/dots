@@ -6,6 +6,8 @@ For wlogout
 gpg --import ~/Downloads/[key].asc
 ```
 3. Install wlogout
+
+
 For Spotify
 
 
