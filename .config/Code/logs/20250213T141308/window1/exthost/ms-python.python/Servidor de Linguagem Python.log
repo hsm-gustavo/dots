@@ -1,0 +1,19 @@
+2025-02-13 14:52:40.949 [info] (Client) Pylance async client (2025.2.1) started with python extension (2025.0.0)
+2025-02-13 14:52:41.200 [info] [Info  - 14:52:41] (38664) Server root directory: file:///home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-13 14:52:41.201 [info] [Info  - 14:52:41] (38664) Pylance language server 2025.2.1 (pyright version 1.1.393, commit 3763156f) starting
+2025-02-13 14:52:41.209 [info] [Info  - 14:52:41] (38664) Starting service instance "waybar"
+2025-02-13 14:52:41.282 [info] [Info  - 14:52:41] (38664) Setting environmentName for service "waybar": "3.13.1 (global)"
+2025-02-13 14:52:41.283 [info] [Info  - 14:52:41] (38664) Setting pythonPath for service "waybar": "/bin/python"
+2025-02-13 14:52:41.289 [info] [Info  - 14:52:41] (38664) No include entries specified; assuming /home/gustavo/.config/waybar
+2025-02-13 14:52:41.289 [info] [Info  - 14:52:41] (38664) Auto-excluding **/node_modules
+2025-02-13 14:52:41.289 [info] [Info  - 14:52:41] (38664) Auto-excluding **/__pycache__
+2025-02-13 14:52:41.290 [info] [Info  - 14:52:41] (38664) Auto-excluding **/.*
+2025-02-13 14:52:41.315 [info] [Info  - 14:52:41] (38664) Assuming Python version 3.13.1.final.0
+2025-02-13 14:52:41.409 [info] [Info  - 14:52:41] (38664) Found 1 source file
+2025-02-13 14:52:42.233 [info] [Info  - 14:52:42] (38664) Background analysis(1) root directory: file:///home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist
+2025-02-13 14:52:42.236 [info] [Info  - 14:52:42] (38664) Background analysis(1) started
+2025-02-13 14:52:42.325 [info] [Info  - 14:52:42] (38664) Indexer background runner(2) root directory: file:///home/gustavo/.vscode/extensions/ms-python.vscode-pylance-2025.2.1/dist (index)
+2025-02-13 14:52:42.325 [info] [Info  - 14:52:42] (38664) Indexing(2) started
+2025-02-13 14:52:42.910 [info] [Info  - 14:52:42] (38664) scanned(2) 37 files over 1 exec env
+2025-02-13 14:52:43.959 [info] [Info  - 14:52:43] (38664) indexed(2) 37 files over 1 exec env
+2025-02-13 14:52:43.991 [info] [Info  - 14:52:43] (38664) Indexing finished(2).

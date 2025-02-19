@@ -1,0 +1,227 @@
+2025-02-15 23:17:58.586 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-02-15 23:17:58.586 [info] [AutoSync] Enabled.
+2025-02-15 23:17:58.586 [info] [AutoSync] Suspended until auth token is available.
+2025-02-15 23:18:00.223 [info] [AutoSync] Triggered by Interval
+2025-02-15 23:18:00.224 [info] Sync started.
+2025-02-15 23:18:01.981 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:18:02.048 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:18:02.052 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:18:02.055 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:18:02.064 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:18:02.336 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:18:02.338 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:18:02.341 [info] Syncing profile. java
+2025-02-15 23:18:02.497 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:18:02.503 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:18:02.505 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:18:02.507 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:18:03.107 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:18:03.184 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:18:03.185 [info] Sync done. Took 2963ms
+2025-02-15 23:18:23.103 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:18:23.103 [info] Sync started.
+2025-02-15 23:18:23.290 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:18:23.293 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:18:23.295 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:18:23.297 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:18:23.302 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:18:23.359 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:18:23.360 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:18:23.362 [info] Syncing profile. java
+2025-02-15 23:18:23.373 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:18:23.375 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:18:23.377 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:18:23.380 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:18:23.384 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:18:23.493 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:18:23.502 [info] Sync done. Took 402ms
+2025-02-15 23:18:33.819 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:18:33.819 [info] Sync started.
+2025-02-15 23:18:34.235 [info] Settings: Updated remote settings
+2025-02-15 23:18:34.248 [info] Settings: Updated last synchronized settings
+2025-02-15 23:18:34.252 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:18:34.255 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:18:34.257 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:18:34.262 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:18:34.328 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:18:34.329 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:18:34.330 [info] Syncing profile. java
+2025-02-15 23:18:34.345 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:18:34.349 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:18:34.351 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:18:34.352 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:18:34.355 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:18:34.426 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:18:34.428 [info] Sync done. Took 610ms
+2025-02-15 23:18:38.229 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:18:38.230 [info] Sync started.
+2025-02-15 23:18:38.653 [info] Settings: Updated remote settings
+2025-02-15 23:18:38.659 [info] Settings: Updated last synchronized settings
+2025-02-15 23:18:38.662 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:18:38.664 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:18:38.666 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:18:38.672 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:18:38.854 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:18:38.897 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:18:38.897 [info] Syncing profile. java
+2025-02-15 23:18:38.922 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:18:38.927 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:18:38.928 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:18:38.931 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:18:38.935 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:18:39.038 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:18:39.040 [info] Sync done. Took 813ms
+2025-02-15 23:18:42.356 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:18:42.356 [info] Sync started.
+2025-02-15 23:18:42.533 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:18:42.539 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:18:42.542 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:18:42.544 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:18:43.313 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2025-02-15 23:18:43.325 [info] GlobalState: Updated last synchronized ui state
+2025-02-15 23:18:43.389 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:18:43.390 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:18:43.391 [info] Syncing profile. java
+2025-02-15 23:18:43.411 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:18:43.414 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:18:43.419 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:18:43.421 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:18:43.424 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:18:43.522 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:18:43.524 [info] Sync done. Took 1169ms
+2025-02-15 23:22:29.898 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:22:29.899 [info] Sync started.
+2025-02-15 23:22:30.709 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:22:30.711 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:22:30.714 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:22:30.716 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:22:30.722 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:22:30.807 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:22:30.809 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:22:30.810 [info] Syncing profile. java
+2025-02-15 23:22:30.830 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:22:30.834 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:22:30.837 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:22:30.841 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:22:30.845 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:22:30.935 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:22:30.937 [info] Sync done. Took 1039ms
+2025-02-15 23:22:49.581 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:22:49.581 [info] Sync started.
+2025-02-15 23:22:49.762 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:22:49.764 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:22:49.768 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:22:49.771 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:22:49.778 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:22:49.858 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:22:49.861 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:22:49.863 [info] Syncing profile. java
+2025-02-15 23:22:49.882 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:22:49.884 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:22:49.887 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:22:49.890 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:22:49.893 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:22:49.982 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:22:49.987 [info] Sync done. Took 407ms
+2025-02-15 23:23:40.716 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:23:40.717 [info] Sync started.
+2025-02-15 23:23:40.898 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:23:40.902 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:23:40.904 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:23:40.906 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:23:40.913 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:23:40.989 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:23:40.991 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:23:40.992 [info] Syncing profile. java
+2025-02-15 23:23:41.016 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:23:41.019 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:23:41.021 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:23:41.023 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:23:41.026 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:23:41.103 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:23:41.105 [info] Sync done. Took 389ms
+2025-02-15 23:24:47.454 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:24:47.454 [info] Sync started.
+2025-02-15 23:24:47.646 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:24:47.649 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:24:47.652 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:24:47.655 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:24:47.664 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:24:47.757 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:24:47.764 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:24:47.766 [info] Syncing profile. java
+2025-02-15 23:24:47.782 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:24:47.785 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:24:47.787 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:24:47.791 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:24:47.794 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:24:47.884 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:24:47.886 [info] Sync done. Took 433ms
+2025-02-15 23:25:02.972 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:25:02.973 [info] Sync started.
+2025-02-15 23:25:03.168 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:25:03.171 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:25:03.173 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:25:03.175 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:25:03.182 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:25:03.256 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:25:03.258 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:25:03.260 [info] Syncing profile. java
+2025-02-15 23:25:03.280 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:25:03.283 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:25:03.285 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:25:03.287 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:25:03.291 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:25:03.362 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:25:03.365 [info] Sync done. Took 393ms
+2025-02-15 23:25:26.361 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:25:26.362 [info] Sync started.
+2025-02-15 23:25:26.551 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:25:26.554 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:25:26.558 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:25:26.560 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:25:26.568 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:25:26.657 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:25:26.659 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:25:26.660 [info] Syncing profile. java
+2025-02-15 23:25:26.678 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:25:26.681 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:25:26.683 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:25:26.685 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:25:26.689 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:25:26.787 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:25:26.788 [info] Sync done. Took 427ms
+2025-02-15 23:25:38.949 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:25:38.949 [info] Sync started.
+2025-02-15 23:25:39.123 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:25:39.126 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:25:39.129 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:25:39.131 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:25:39.136 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:25:39.203 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:25:39.205 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:25:39.205 [info] Syncing profile. java
+2025-02-15 23:25:39.217 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:25:39.219 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:25:39.223 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:25:39.225 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:25:39.228 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:25:39.304 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:25:39.305 [info] Sync done. Took 357ms
+2025-02-15 23:25:51.157 [info] [AutoSync] Triggered by Activity
+2025-02-15 23:25:51.158 [info] Sync started.
+2025-02-15 23:25:51.342 [info] Settings: No changes found during synchronizing settings.
+2025-02-15 23:25:51.345 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-02-15 23:25:51.348 [info] Snippets: No changes found during synchronizing snippets.
+2025-02-15 23:25:51.351 [info] Tasks: No changes found during synchronizing tasks.
+2025-02-15 23:25:51.358 [info] GlobalState: No changes found during synchronizing ui state.
+2025-02-15 23:25:51.434 [info] Extensions: No changes found during synchronizing extensions.
+2025-02-15 23:25:51.436 [info] Profiles: No changes found during synchronizing profiles.
+2025-02-15 23:25:51.437 [info] Syncing profile. java
+2025-02-15 23:25:51.453 [info] Settings (java): No changes found during synchronizing settings.
+2025-02-15 23:25:51.455 [info] Keybindings (java): No changes found during synchronizing keybindings.
+2025-02-15 23:25:51.457 [info] Snippets (java): No changes found during synchronizing snippets.
+2025-02-15 23:25:51.459 [info] Tasks (java): No changes found during synchronizing tasks.
+2025-02-15 23:25:51.461 [info] GlobalState (java): No changes found during synchronizing ui state.
+2025-02-15 23:25:51.536 [info] Extensions (java): No changes found during synchronizing extensions.
+2025-02-15 23:25:51.537 [info] Sync done. Took 382ms

@@ -1,0 +1,247 @@
+Handbrake Version: 20250210155928-3182fa5f6-makepkg (2025021301)
+[20:05:05] gtkgui: Modified Preset: /General/Fast 1080p30
+[20:05:05] Starting work at: Mon Feb 17 20:05:05 2025
+
+[20:05:05] 1 job(s) to process
+[20:05:05] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "Name": "simple_aac_recording0",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 4,
+                    "Seconds": 9,
+                    "Ticks": 22450500
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/gustavo/Vídeos/2025-02-17 19-59-27.mp4",
+        "InlineParameterSets": false,
+        "Mux": "m4v",
+        "Options": {
+            "IpodAtom": false,
+            "Optimize": false
+        }
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 4,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 11,
+                "Settings": {
+                    "mode": 0
+                }
+            },
+            {
+                "ID": 20,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 1080,
+                    "width": 1920
+                }
+            }
+        ]
+    },
+    "Metadata": {},
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "HWDecode": 0,
+        "KeepDuplicateTitles": false,
+        "Path": "/home/gustavo/2025-02-17 19-59-27.mkv",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ChromaLocation": 1,
+        "ColorInputFormat": 0,
+        "ColorMatrix": 1,
+        "ColorOutputFormat": 0,
+        "ColorPrimaries": 1,
+        "ColorRange": 1,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "HardwareDecode": 0,
+        "Level": "4.0",
+        "MultiPass": false,
+        "Options": "",
+        "Preset": "fast",
+        "Profile": "main",
+        "QSV": {
+            "AdapterIndex": 0,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 22.0,
+        "Tune": "",
+        "Turbo": false
+    }
+}
+[20:05:05] CPU: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
+[20:05:05]  - Intel microarchitecture Ivy Bridge
+[20:05:05]  - logical processor count: 8
+[20:05:05] Intel Quick Sync Video support: no
+[20:05:05] hb_scan: path=/home/gustavo/2025-02-17 19-59-27.mkv, title_index=1
+Input #0, matroska,webm, from '/home/gustavo/2025-02-17 19-59-27.mkv':
+  Metadata:
+    ENCODER         : Lavf61.7.100
+  Duration: 00:04:09.45, start: 0.000000, bitrate: 1232 kb/s
+  Stream #0:0: Video: h264 (High), yuv420p(tv, bt709, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 60 fps, 60 tbr, 1k tbn
+      Metadata:
+        DURATION        : 00:04:09.450000000
+  Stream #0:1: Audio: aac (LC), 48000 Hz, stereo, fltp
+      Metadata:
+        title           : simple_aac_recording0
+        DURATION        : 00:04:09.429000000
+[20:05:05] scan: decoding previews for title 1
+[20:05:05] scan: audio 0x1: aac, rate=48000Hz, bitrate=1 Unknown (AAC LC, 2.0 ch)
+[20:05:05] using bitstream PAR 1:1
+[20:05:05] scan: 10 previews, 1920x1080, 60,000 fps, autocrop = 0/0/0/0, aspect 16:9, PAR 1:1, color profile: 1-1-1, chroma location: left
+[20:05:05] libhb: scan thread found 1 valid title(s)
+[20:05:06] Starting Task: Encoding Pass
+[20:05:06] work: skipping crop/scale filter
+[20:05:06] job configuration:
+[20:05:06]  * source
+[20:05:06]    + /home/gustavo/2025-02-17 19-59-27.mkv
+[20:05:06]    + title 1, chapter(s) 1 to 1
+[20:05:06]    + container: matroska,webm
+[20:05:06]    + data rate: 1232 kbps
+[20:05:06]  * destination
+[20:05:06]    + /home/gustavo/Vídeos/2025-02-17 19-59-27.mp4
+[20:05:06]    + container: MPEG-4 (libavformat)
+[20:05:06]      + align initial A/V stream timestamps
+[20:05:06]  * video track
+[20:05:06]    + decoder: h264 8-bit (yuv420p)
+[20:05:06]    + filters
+[20:05:06]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[20:05:06]      + Decomb (mode=39)
+[20:05:06]      + Framerate Shaper (mode=0)
+[20:05:06]        + frame rate: same as source (around 60,000 fps)
+[20:05:06]    + Output geometry
+[20:05:06]      + storage dimensions: 1920 x 1080
+[20:05:06]      + pixel aspect ratio: 1 : 1
+[20:05:06]      + display dimensions: 1920 x 1080
+[20:05:06]    + encoder: H.264 (libx264)
+[20:05:06]      + preset:  fast
+[20:05:06]      + profile: main
+[20:05:06]      + level:   4.0
+[20:05:06]      + quality: 22,00 (RF)
+[20:05:06]      + color profile: 1-1-1
+[20:05:06]      + color range: tv
+[20:05:06]      + chroma location: left
+[20:05:06]  * audio track 1
+[20:05:06]    + name: simple_aac_recording0
+[20:05:06]    + decoder: Unknown (AAC LC, 2.0 ch) (track 1, id 0x1)
+[20:05:06]      + samplerate: 48000 Hz
+[20:05:06]    + mixdown: Stereo
+[20:05:06]    + encoder: AAC (libavcodec)
+[20:05:06]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[20:05:06] sync: expecting 14967 video frames
+[20:05:06] encx264: min-keyint: 60, keyint: 600
+[20:05:06] encx264: encoding at constant RF 22,000000
+[20:05:06] apply_h264_level [warning]: framerate (60,000) too high for level 4.0 at 1920x1080 (max. 30,118)
+[20:05:06] encx264: unparsed options: level=4.0:ref=2:8x8dct=0:weightp=1:subme=6:vbv-bufsize=25000:vbv-maxrate=20000:rc-lookahead=30
+x264 [info]: using SAR=1/1
+x264 [warning]: MB rate (489600) > level limit (245760)
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x264 [info]: profile Main, level 4.0, 4:2:0, 8-bit
+[20:05:06] sync: first pts video is 0
+[20:05:06] sync: Chapter 1 at frame 1 time 0
+[20:05:06] sync: first pts audio 0x1 is 0
+[20:08:13] reader: done. 1 scr changes
+[20:08:15] work: average encoding speed for job is 79,480324 fps
+[20:08:15] comb detect: heavy 34 | light 160 | uncombed 14773 | total 14967
+[20:08:15] decomb: deinterlaced 34 | blended 160 | unfiltered 14773 | total 14967
+[20:08:15] vfr: 14967 frames output, 0 dropped
+[20:08:15] vfr: lost time: 0 (0 frames)
+[20:08:15] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[20:08:15] aac-decoder done: 11692 frames, 0 decoder errors
+[20:08:15] h264-decoder done: 14967 frames, 0 decoder errors
+[20:08:15] sync: got 14967 frames, 14967 expected
+[20:08:15] sync: framerate min 60,000 fps, max 60,000 fps, avg 60,000 fps
+x264 [info]: frame I:28    Avg QP:15,42  size:126570
+x264 [info]: frame P:3951  Avg QP:19,69  size:  1962
+x264 [info]: frame B:10988 Avg QP:22,42  size:   255
+x264 [info]: consecutive B-frames:  1,6%  1,2%  1,5% 95,8%
+x264 [info]: mb I  I16..4: 48,4%  0,0% 51,6%
+x264 [info]: mb P  I16..4:  3,1%  0,0%  0,5%  P16..4:  1,6%  0,2%  0,1%  0,0%  0,0%    skip:94,3%
+x264 [info]: mb B  I16..4:  0,3%  0,0%  0,0%  B16..8:  0,4%  0,1%  0,0%  direct: 0,2%  skip:99,0%  L0:42,2% L1:52,6% BI: 5,2%
+x264 [info]: coded y,uvDC,uvAC intra: 14,7% 30,6% 8,1% inter: 0,2% 0,4% 0,0%
+x264 [info]: i16 v,h,dc,p: 59% 31%  6%  5%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 30% 23% 20%  5%  5%  5%  4%  6%  3%
+x264 [info]: i8c dc,h,v,p: 59% 23% 17%  2%
+x264 [info]: Weighted P-Frames: Y:0,2% UV:0,1%
+x264 [info]: ref P L0: 83,9% 16,1%
+x264 [info]: ref B L0: 78,0% 22,0%
+x264 [info]: ref B L1: 93,4%  6,6%
+x264 [info]: kb/s:452,29
+[20:08:15] mux: track 0, 14967 frames, 14101913 bytes, 452,23 kbps, fifo 16384
+[20:08:15] mux: track 1, 11693 frames, 75266 bytes, 2,41 kbps, fifo 16384
+[20:08:15] Finished work at: Mon Feb 17 20:08:15 2025
+
+[20:08:15] libhb: work result = 0

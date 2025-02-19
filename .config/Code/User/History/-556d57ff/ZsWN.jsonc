@@ -1,0 +1,152 @@
+{
+  "position": "top",
+  "layer": "top",
+  "height": 45,
+  "spacing": 0,
+  "margin-top": 5,
+  "margin-bottom": 0,
+  "margin-left": 5,
+  "margin-right": 5,
+  "modules-left": ["custom/launcher", "hyprland/workspaces", "custom/updates"],
+  "modules-center": ["cpu", "memory", "disk"],
+  "modules-right": [
+    "battery",
+    "network",
+    "pulseaudio",
+    "clock",
+    "custom/notifications",
+    "tray",
+    "custom/power"
+  ],
+  // Modules configuration
+  "hyprland/window": {
+    "format": "{}",
+    "separate-outputs": true,
+    "max-length": 35
+  },
+  "clock": {
+    "format": " {:%d %a %H:%M}",
+    //"format": " {:%a %b %d %Y | %H:%M}",
+    "format-alt": " {:%a %b %d %Y (%V) | %r}",
+    "tooltip": "true",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+    "calendar-weeks-pos": "right",
+    "today-format": "<span color='#f38ba8'><b><u>{}</u></b></span>",
+    "format-calendar": "<span color='#f2cdcd'><b>{}</b></span>",
+    "format-calendar-weeks": "<span color='#94e2d5'><b>W{:%U}</b></span>",
+    "format-calendar-weekdays": "<span color='#f9e2af'><b>{}</b></span>"
+  },
+
+  "hyprland/workspaces": {
+    "format": "{icon}",
+    "on-click": "activate",
+    "on-scroll-up": "hyprctl dispatch workspace e-1",
+    "on-scroll-down": "hyprctl dispatch workspace e+1",
+    "sort-by-number": true,
+    "format-icons": {
+      "active": "",
+      "default": ""
+    }
+  },
+
+  "battery": {
+    "states": {
+      "good": 95,
+      "warning": 30,
+      "critical": 15
+    },
+    "format": "{icon}  {capacity}%",
+    "format-charging": "{capacity}% ",
+    "format-plugged": "{capacity}% ",
+    "format-alt": "{icon} {time}",
+    // "format-good": "", // An empty format will hide the module
+    // "format-full": "",
+    "format-icons": ["", "", "", "", ""]
+  },
+
+  "memory": {
+    "format": " {}%",
+    "format-alt": "󰍛 {used}/{total} GiB",
+    "interval": 5
+  },
+
+  "cpu": {
+    "format": "󰻠 {usage}%",
+    "format-alt": "󰻠 {avg_frequency} GHz",
+    "interval": 5
+  },
+
+  "disk": {
+    "format": "󰋊 {}%",
+    "format-alt": "󰋊 {used}/{total} GiB",
+    "interval": 5,
+    "path": "/"
+  },
+
+  "network": {
+    "format-wifi": "{icon} {ifname}",
+    "format-ethernet": "{icon} {ifname}",
+    "format-linked": " {ifname} (No IP)",
+    "format-disconnected": "{icon} No Internet",
+    "format-alt": "{icon} {ifname}: {ipaddr}/{cidr}",
+    "tooltip-format": "{essid}",
+    "on-click-right": "nm-connection-editor",
+    "format-icons": {
+      "ethernet": "",
+      "disconnected": "⚠",
+      "wifi": ["睊", "直"]
+    }
+  },
+
+  "tray": {
+    "icon-size": 16,
+    "spacing": 5
+  },
+
+  "pulseaudio": {
+    "format": "{icon} {volume}%",
+    "format-muted": "",
+    "format-source": "{volume}% ",
+    "format-source-muted": "",
+    "format-icons": {
+      "default": ["", "", ""]
+    },
+    "on-click": "pavucontrol"
+  },
+  "custom/launcher": {
+    "format": "{}",
+    "exec": "echo '{\"text\":\"💧\"}'",
+    "return-type": "json",
+    "on-click": "pkill tofi || sleep 0.15 && tofi-drun -c ~/.config/tofi/tofi.launcher.conf",
+    "on-click-right": "pkill tofi || sleep 0.15 && tofi-run -c ~/.config/tofi/tofi.launcher.conf"
+  },
+  "custom/notifications": {
+    "tooltip": false,
+    "format": "{icon}",
+    "format-icons": {
+      "notification": "<span foreground='red'><sup></sup></span>",
+      "none": "",
+      "dnd-notification": "<span foreground='red'><sup></sup></span>",
+      "dnd-none": ""
+    },
+    "return-type": "json",
+    "exec-if": "which swaync-client",
+    "exec": "swaync-client -swb",
+    "on-click": "sleep 0.15 && swaync-client -t -sw",
+    "on-click-right": "sleep 0.15 && swaync-client -d -sw",
+    "escape": true
+  },
+  "custom/updates": {
+    "format": "{}",
+    "exec": "~/.local/bin/scripts/updates.sh",
+    "on-click": "~/.local/bin/scripts/updates.sh update",
+    "interval": 600,
+    "tooltip": true
+  },
+  "custom/power": {
+    "format": "{}",
+    "exec": "echo '{\"text\":\"⏻\",\"tooltip\":\"Power\"}'",
+    "return-type": "json",
+    "on-click": "~/.config/wlogout/launch.sh"
+  }
+}

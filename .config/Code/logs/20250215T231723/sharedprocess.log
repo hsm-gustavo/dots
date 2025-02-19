@@ -1,0 +1,4 @@
+2025-02-15 23:17:35.430 [info] Marked extension as removed github.copilot-1.270.0
+2025-02-15 23:17:35.430 [info] Marked extension as removed github.copilot-chat-0.24.0
+2025-02-15 23:17:39.185 [info] Deleted marked for removal extension from disk github.copilot-chat /home/gustavo/.vscode/extensions/github.copilot-chat-0.24.0
+2025-02-15 23:17:39.186 [info] Deleted marked for removal extension from disk github.copilot /home/gustavo/.vscode/extensions/github.copilot-1.270.0

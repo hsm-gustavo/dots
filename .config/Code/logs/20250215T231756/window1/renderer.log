@@ -1,0 +1,26 @@
+2025-02-15 23:17:57.528 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 23:17:57.529 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 23:17:57.529 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 23:17:57.529 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 23:17:58.198 [info] Started local extension host with pid 10414.
+2025-02-15 23:17:58.389 [warning] [twxs.cmake]: Não é possível registrar 'cmake.cmakePath'. Esta propriedade já está registrada.
+2025-02-15 23:18:00.090 [info] Settings Sync: Token updated for the account hsm-gustavo
+2025-02-15 23:18:00.324 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-15 23:18:01.036 [info] [perf] Render performance baseline is 55ms
+2025-02-15 23:18:22.951 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-15 23:18:23.572 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-15 23:18:27.389 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-15 23:18:27.512 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-15 23:18:37.460 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 23:18:37.461 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 23:18:37.461 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 23:18:37.461 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-02-15 23:18:37.951 [info] Started local extension host with pid 10743.
+2025-02-15 23:18:38.608 [warning] [twxs.cmake]: Não é possível registrar 'cmake.cmakePath'. Esta propriedade já está registrada.
+2025-02-15 23:18:39.831 [info] Settings Sync: Token updated for the account hsm-gustavo
+2025-02-15 23:18:39.864 [info] Settings Sync: Account status changed from uninitialized to available
+2025-02-15 23:18:40.793 [info] [perf] Render performance baseline is 40ms
+2025-02-15 23:18:45.362 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-15 23:18:45.933 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-02-15 23:18:46.766 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-15 23:18:46.940 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

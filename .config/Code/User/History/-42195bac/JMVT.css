@@ -1,0 +1,231 @@
+@define-color base #1e1e2e;
+@define-color mantle #181825;
+@define-color crust #11111b;
+
+@define-color text #cdd6f4;
+@define-color subtext0 #a6adc8;
+@define-color subtext1 #bac2de;
+
+@define-color surface0 rgba(22, 25, 37, 0.9);
+@define-color surface1 #45475a;
+@define-color surface2 #585b70;
+@define-color surface3 #394161;
+
+@define-color overlay0 #6c7086;
+@define-color overlay1 #7f849c;
+@define-color overlay2 #9ba3c3;
+
+@define-color blue #89b4fa;
+@define-color lavender #b4befe;
+@define-color sapphire #74c7ec;
+@define-color sky #89dceb;
+@define-color teal #94e2d5;
+@define-color green #a6e3a1;
+@define-color yellow #f9e2af;
+@define-color peach #fab387;
+@define-color maroon #eba0ac;
+@define-color red #f38ba8;
+@define-color mauve #cba6f7;
+@define-color pink #f5c2e7;
+@define-color flamingo #f2cdcd;
+@define-color rosewater #f5e0dc;
+
+* {
+  border: none;
+  border-radius: 0px;
+  font-family: "CascaydiaCove Nerd Font", "Iosevka";
+  font-size: 14px;
+  min-height: 0;
+}
+
+#custom-launcher,
+#workspaces,
+#window,
+#tray,
+#clock,
+#pulseaudio,
+#network,
+#cpu,
+#memory,
+#disk,
+#temperature,
+#custom-updates,
+#custom-notifications,
+#custom-power {
+  background: @surface1;
+  color: @mauve;
+  padding: 0.5rem 1rem;
+  margin-top: 10px;
+  margin-right: 10px;
+  border-radius: 16px;
+  box-shadow: rgba(0, 0, 0, 0.116) 2px 2px 5px 2px;
+  border-radius: 16px;
+}
+
+#waybar {
+  background: transparent;
+  color: @mauve;
+}
+
+#workspaces {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+#workspaces * {
+  font-size: 0px;
+}
+
+#workspaces button {
+  padding: 0px;
+  border-radius: 100%;
+  min-width: 14px;
+  min-height: 14px;
+  margin: 5px 8px;
+  transition: background-color 0.5s cubic-bezier(0.55, -0.68, 0.48, 1.68);
+  box-shadow: rgba(0, 0, 0, 0.288) 2px 2px 5px 2px;
+  background-color: @surface1;
+}
+
+#workspaces button.active {
+  background: radial-gradient(
+    circle,
+    rgba(203, 166, 247, 1) 0%,
+    rgba(189, 147, 249, 1) 12%,
+    rgba(249, 226, 175, 1) 19%,
+    rgba(180, 140, 249, 1) 20%,
+    rgba(170, 130, 249, 1) 24%,
+    rgba(166, 227, 161, 1) 36%,
+    rgba(160, 120, 249, 1) 37%,
+    rgba(150, 110, 249, 1) 48%,
+    rgba(255, 255, 255, 1) 52%,
+    rgba(140, 100, 249, 1) 52%,
+    rgba(130, 90, 249, 1) 59%,
+    rgba(148, 226, 213, 1) 66%,
+    rgba(120, 80, 249, 1) 67%,
+    rgba(110, 70, 249, 1) 68%,
+    rgba(180, 190, 254, 1) 77%,
+    rgba(100, 60, 249, 1) 78%,
+    rgba(90, 50, 249, 1) 82%,
+    rgba(180, 190, 254, 1) 83%,
+    rgba(80, 40, 249, 1) 90%,
+    rgba(70, 30, 249, 1) 100%
+  );
+  background-size: 400% 400%;
+  animation: gradient_f 20s ease-in-out infinite;
+  transition: background-color 0.3s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+
+#workspaces button:hover {
+  background-color: @mauve;
+}
+
+@keyframes gradient_f {
+  0% {
+    background-position: 0% 200%;
+  }
+
+  50% {
+    background-position: 200% 0%;
+  }
+
+  100% {
+    background-position: 400% 200%;
+  }
+}
+
+#window {
+  color: @text;
+  min-width: 100px;
+  background: rgb(155, 163, 195);
+  background: linear-gradient(
+    90deg,
+    rgba(155, 163, 195, 1) 0%,
+    rgba(180, 190, 254, 1) 7%,
+    rgba(116, 199, 236, 1) 14%,
+    rgba(137, 220, 235, 1) 21%,
+    rgba(148, 226, 213, 1) 28%,
+    rgba(166, 227, 161, 1) 35%,
+    rgba(249, 226, 175, 1) 42%,
+    rgba(250, 179, 135, 1) 49%,
+    rgba(235, 160, 172, 1) 56%,
+    rgba(243, 139, 168, 1) 63%,
+    rgba(203, 166, 247, 1) 70%,
+    rgba(245, 194, 231, 1) 77%,
+    rgba(242, 205, 205, 1) 84%,
+    rgba(245, 233, 220, 1) 91%
+  );
+}
+
+#network {
+  color: @yellow;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  margin-right: 0px;
+  padding-right: 10px;
+}
+
+#pulseaudio {
+  color: @green;
+  border-radius: 0;
+  margin-right: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#clock {
+  color: @teal;
+  border-radius: 0;
+  margin-right: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#custom-notifications {
+  color: @sapphire;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  padding-left: 10px;
+  padding-right: 1.25rem;
+}
+
+#cpu {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  margin-right: 0px;
+  padding-right: 5px;
+  font-weight: bold;
+}
+
+#memory {
+  border-radius: 0px;
+  margin-right: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-weight: bold;
+}
+
+#disk {
+  border-radius: 0px;
+  margin-right: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-weight: bold;
+}
+
+#temperature {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  padding-left: 5px;
+  padding-right: 1rem;
+  font-weight: bold;
+}
+
+#custom-power {
+  color: @red;
+  padding-left: 1.2rem;
+}
+
+#custom-updates {
+  color: @sky;
+}

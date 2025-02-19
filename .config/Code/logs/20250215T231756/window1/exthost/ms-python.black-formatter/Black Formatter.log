@@ -1,0 +1,174 @@
+2025-02-15 23:19:18.764 [info] Name: Black Formatter
+2025-02-15 23:19:18.764 [info] Module: black
+2025-02-15 23:19:18.764 [info] Default formatter is set to ms-python.black-formatter for workspace /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:18.764 [info] Python extension loading
+2025-02-15 23:19:18.764 [info] Waiting for interpreter from python extension.
+2025-02-15 23:19:18.764 [info] No interpreter found from setting black-formatter.interpreter
+2025-02-15 23:19:18.764 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:18.902 [info] Interpreter from ms-python.python extension for /home/gustavo/Documentos/playlist-converter: /home/gustavo/Documentos/playlist-converter/venv/bin/python
+2025-02-15 23:19:18.902 [info] Workspace settings for /home/gustavo/Documentos/playlist-converter (client side): {
+    "cwd": "/home/gustavo/Documentos/playlist-converter",
+    "workspace": "file:///home/gustavo/Documentos/playlist-converter",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/gustavo/Documentos/playlist-converter/venv/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-02-15 23:19:18.903 [info] No interpreter found from setting black-formatter.interpreter
+2025-02-15 23:19:18.903 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:18.905 [info] Python extension loaded
+2025-02-15 23:19:18.905 [info] No interpreter found from setting black-formatter.interpreter
+2025-02-15 23:19:18.905 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:18.914 [info] Interpreter from ms-python.python extension for /home/gustavo/Documentos/playlist-converter: /home/gustavo/Documentos/playlist-converter/venv/bin/python
+2025-02-15 23:19:18.914 [info] Workspace settings for /home/gustavo/Documentos/playlist-converter (client side): {
+    "cwd": "/home/gustavo/Documentos/playlist-converter",
+    "workspace": "file:///home/gustavo/Documentos/playlist-converter",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/gustavo/Documentos/playlist-converter/venv/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-02-15 23:19:18.914 [info] Interpreter from ms-python.python extension for /home/gustavo/Documentos/playlist-converter: /home/gustavo/Documentos/playlist-converter/venv/bin/python
+2025-02-15 23:19:18.914 [info] Workspace settings for /home/gustavo/Documentos/playlist-converter (client side): {
+    "cwd": "/home/gustavo/Documentos/playlist-converter",
+    "workspace": "file:///home/gustavo/Documentos/playlist-converter",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/gustavo/Documentos/playlist-converter/venv/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-02-15 23:19:18.914 [info] No interpreter found from setting black-formatter.interpreter
+2025-02-15 23:19:18.914 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:18.918 [info] Global settings (client side): {
+    "cwd": "/home/gustavo/Documentos/playlist-converter",
+    "workspace": "/home/gustavo/Documentos/playlist-converter",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-02-15 23:19:18.925 [info] Interpreter from ms-python.python extension for /home/gustavo/Documentos/playlist-converter: /home/gustavo/Documentos/playlist-converter/venv/bin/python
+2025-02-15 23:19:18.925 [info] Workspace settings for /home/gustavo/Documentos/playlist-converter (client side): {
+    "cwd": "/home/gustavo/Documentos/playlist-converter",
+    "workspace": "file:///home/gustavo/Documentos/playlist-converter",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/gustavo/Documentos/playlist-converter/venv/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-02-15 23:19:18.926 [info] Global settings (client side): {
+    "cwd": "/home/gustavo/Documentos/playlist-converter",
+    "workspace": "/home/gustavo/Documentos/playlist-converter",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-02-15 23:19:18.948 [info] Server run command: /home/gustavo/Documentos/playlist-converter/venv/bin/python /home/gustavo/.vscode/extensions/ms-python.black-formatter-2024.6.0/bundled/tool/lsp_server.py
+2025-02-15 23:19:18.951 [info] Server: Start requested.
+2025-02-15 23:19:18.953 [info] Server run command: /home/gustavo/Documentos/playlist-converter/venv/bin/python /home/gustavo/.vscode/extensions/ms-python.black-formatter-2024.6.0/bundled/tool/lsp_server.py
+2025-02-15 23:19:18.953 [info] Server: Start requested.
+2025-02-15 23:19:20.167 [info] CWD Server: /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:20.167 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/gustavo/Documentos/playlist-converter",
+        "workspace": "file:///home/gustavo/Documentos/playlist-converter",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/gustavo/Documentos/playlist-converter/venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-02-15 23:19:20.167 [info] Global settings received on server:
+{
+    "cwd": "/home/gustavo/Documentos/playlist-converter",
+    "workspace": "/home/gustavo/Documentos/playlist-converter",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-02-15 23:19:20.167 [info] sys.path used to run Server:
+   /home/gustavo/.vscode/extensions/ms-python.black-formatter-2024.6.0/bundled/libs
+   /home/gustavo/.vscode/extensions/ms-python.black-formatter-2024.6.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/gustavo/Documentos/playlist-converter/venv/lib/python3.13/site-packages
+2025-02-15 23:19:20.168 [info] CWD Server: /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:20.168 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/gustavo/Documentos/playlist-converter",
+        "workspace": "file:///home/gustavo/Documentos/playlist-converter",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/gustavo/Documentos/playlist-converter/venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-02-15 23:19:20.169 [info] Global settings received on server:
+{
+    "cwd": "/home/gustavo/Documentos/playlist-converter",
+    "workspace": "/home/gustavo/Documentos/playlist-converter",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-02-15 23:19:20.169 [info] sys.path used to run Server:
+   /home/gustavo/.vscode/extensions/ms-python.black-formatter-2024.6.0/bundled/libs
+   /home/gustavo/.vscode/extensions/ms-python.black-formatter-2024.6.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/gustavo/Documentos/playlist-converter/venv/lib/python3.13/site-packages
+2025-02-15 23:19:20.365 [info] /home/gustavo/Documentos/playlist-converter/venv/bin/python -m black --version
+2025-02-15 23:19:20.366 [info] CWD formatter: /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:20.366 [info] /home/gustavo/Documentos/playlist-converter/venv/bin/python -m black --version
+2025-02-15 23:19:20.366 [info] CWD formatter: /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:20.837 [info] Version info for formatter running for /home/gustavo/Documentos/playlist-converter:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.13.1
+
+2025-02-15 23:19:20.837 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2025-02-15 23:19:20.838 [info] Version info for formatter running for /home/gustavo/Documentos/playlist-converter:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.13.1
+
+2025-02-15 23:19:20.844 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2025-02-15 23:19:52.114 [info] [Trace - 23:19:52] Sending notification 'textDocument/didOpen'.
+2025-02-15 23:19:52.114 [info] [Trace - 23:19:52] Sending notification 'textDocument/didOpen'.
+2025-02-15 23:19:57.579 [info] [Trace - 23:19:57] Sending notification 'textDocument/didOpen'.
+2025-02-15 23:19:57.579 [info] [Trace - 23:19:57] Sending notification 'textDocument/didOpen'.

@@ -1,0 +1,147 @@
+2025-02-15 23:19:18.765 [info] Name: isort
+2025-02-15 23:19:18.765 [info] Module: isort
+2025-02-15 23:19:18.765 [info] Python extension loading
+2025-02-15 23:19:18.765 [info] Waiting for interpreter from python extension.
+2025-02-15 23:19:18.765 [info] No interpreter found from setting isort.interpreter
+2025-02-15 23:19:18.765 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:18.902 [info] Interpreter from ms-python.python extension for /home/gustavo/Documentos/playlist-converter: /home/gustavo/Documentos/playlist-converter/venv/bin/python
+2025-02-15 23:19:18.905 [info] No interpreter found from setting isort.interpreter
+2025-02-15 23:19:18.905 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:18.905 [info] Python extension loaded
+2025-02-15 23:19:18.907 [info] No interpreter found from setting isort.interpreter
+2025-02-15 23:19:18.907 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:18.916 [info] Interpreter from ms-python.python extension for /home/gustavo/Documentos/playlist-converter: /home/gustavo/Documentos/playlist-converter/venv/bin/python
+2025-02-15 23:19:18.918 [info] Interpreter from ms-python.python extension for /home/gustavo/Documentos/playlist-converter: /home/gustavo/Documentos/playlist-converter/venv/bin/python
+2025-02-15 23:19:18.918 [info] No interpreter found from setting isort.interpreter
+2025-02-15 23:19:18.918 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:18.926 [info] Interpreter from ms-python.python extension for /home/gustavo/Documentos/playlist-converter: /home/gustavo/Documentos/playlist-converter/venv/bin/python
+2025-02-15 23:19:18.961 [info] Server run command: /home/gustavo/Documentos/playlist-converter/venv/bin/python /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2025-02-15 23:19:18.962 [info] Server: Start requested.
+2025-02-15 23:19:18.962 [info] Server run command: /home/gustavo/Documentos/playlist-converter/venv/bin/python /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2025-02-15 23:19:18.963 [info] Server: Start requested.
+2025-02-15 23:19:20.811 [info] CWD Server: /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:20.815 [info] sys.path used to run Server:
+   /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/gustavo/Documentos/playlist-converter/venv/lib/python3.13/site-packages
+2025-02-15 23:19:20.823 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/gustavo/Documentos/playlist-converter",
+        "workspace": "file:///home/gustavo/Documentos/playlist-converter",
+        "args": [
+            "--profile",
+            "black"
+        ],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/home/gustavo/Documentos/playlist-converter/venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-02-15 23:19:20.826 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/gustavo/Documentos/playlist-converter",
+    "workspace": "/home/gustavo/Documentos/playlist-converter",
+    "args": [
+        "--profile",
+        "black"
+    ],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-02-15 23:19:20.826 [info] CWD Server: /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:20.827 [info] /home/gustavo/Documentos/playlist-converter/venv/bin/python -m isort --version-number
+2025-02-15 23:19:20.827 [info] sys.path used to run Server:
+   /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/gustavo/Documentos/playlist-converter/venv/lib/python3.13/site-packages
+2025-02-15 23:19:20.827 [info] CWD Linter: /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:20.828 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/gustavo/Documentos/playlist-converter",
+        "workspace": "file:///home/gustavo/Documentos/playlist-converter",
+        "args": [
+            "--profile",
+            "black"
+        ],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/home/gustavo/Documentos/playlist-converter/venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-02-15 23:19:20.828 [info] Version info for isort running for /home/gustavo/Documentos/playlist-converter:
+5.11.5
+
+2025-02-15 23:19:20.828 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/gustavo/Documentos/playlist-converter",
+    "workspace": "/home/gustavo/Documentos/playlist-converter",
+    "args": [
+        "--profile",
+        "black"
+    ],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-02-15 23:19:20.828 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2025-02-15 23:19:20.828 [info] /home/gustavo/Documentos/playlist-converter/venv/bin/python -m isort --version-number
+2025-02-15 23:19:20.828 [info] CWD Linter: /home/gustavo/Documentos/playlist-converter
+2025-02-15 23:19:20.828 [info] Version info for isort running for /home/gustavo/Documentos/playlist-converter:
+5.11.5
+
+2025-02-15 23:19:20.828 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2025-02-15 23:19:20.866 [info] [Trace - 23:19:20] Received notification 'textDocument/publishDiagnostics'.
+2025-02-15 23:19:20.866 [info] [Trace - 23:19:20] Received notification 'textDocument/publishDiagnostics'.
+2025-02-15 23:19:52.114 [info] [Trace - 23:19:52] Sending notification 'textDocument/didOpen'.
+2025-02-15 23:19:52.114 [info] [Trace - 23:19:52] Sending notification 'textDocument/didOpen'.
+2025-02-15 23:19:52.116 [info] [Trace - 23:19:52] Received notification 'textDocument/publishDiagnostics'.
+2025-02-15 23:19:52.116 [info] [Trace - 23:19:52] Received notification 'textDocument/publishDiagnostics'.
+2025-02-15 23:19:57.579 [info] [Trace - 23:19:57] Sending notification 'textDocument/didOpen'.
+2025-02-15 23:19:57.579 [info] [Trace - 23:19:57] Sending notification 'textDocument/didOpen'.
+2025-02-15 23:19:57.581 [info] [Trace - 23:19:57] Received notification 'textDocument/publishDiagnostics'.
+2025-02-15 23:19:57.582 [info] [Trace - 23:19:57] Received notification 'textDocument/publishDiagnostics'.

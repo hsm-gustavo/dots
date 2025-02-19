@@ -1,0 +1,110 @@
+2025-02-18 15:04:20.728 [info] Name: Black Formatter
+2025-02-18 15:04:20.728 [info] Module: black
+2025-02-18 15:04:20.728 [info] Default formatter is set to ms-python.black-formatter for workspace /home/gustavo/.config/waybar
+2025-02-18 15:04:20.728 [info] Python extension loading
+2025-02-18 15:04:20.728 [info] Waiting for interpreter from python extension.
+2025-02-18 15:04:20.835 [info] No interpreter found from setting black-formatter.interpreter
+2025-02-18 15:04:20.835 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/.config/waybar
+2025-02-18 15:04:20.837 [info] Python extension loaded
+2025-02-18 15:04:20.846 [info] Interpreter from ms-python.python extension for /home/gustavo/.config/waybar: /bin/python
+2025-02-18 15:04:20.846 [info] Workspace settings for /home/gustavo/.config/waybar (client side): {
+    "cwd": "/home/gustavo/.config/waybar",
+    "workspace": "file:///home/gustavo/.config/waybar",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-02-18 15:04:20.847 [info] No interpreter found from setting black-formatter.interpreter
+2025-02-18 15:04:20.847 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/.config/waybar
+2025-02-18 15:04:20.903 [info] Interpreter from ms-python.python extension for /home/gustavo/.config/waybar: /bin/python
+2025-02-18 15:04:20.903 [info] Workspace settings for /home/gustavo/.config/waybar (client side): {
+    "cwd": "/home/gustavo/.config/waybar",
+    "workspace": "file:///home/gustavo/.config/waybar",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-02-18 15:04:20.904 [info] Global settings (client side): {
+    "cwd": "/home/gustavo/.config/waybar",
+    "workspace": "/home/gustavo/.config/waybar",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2025-02-18 15:04:20.942 [info] Server run command: /bin/python /home/gustavo/.vscode/extensions/ms-python.black-formatter-2024.6.0/bundled/tool/lsp_server.py
+2025-02-18 15:04:20.944 [info] Server: Start requested.
+2025-02-18 15:04:22.176 [info] CWD Server: /home/gustavo/.config/waybar
+2025-02-18 15:04:22.177 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/gustavo/.config/waybar",
+        "workspace": "file:///home/gustavo/.config/waybar",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-02-18 15:04:22.177 [info] Global settings received on server:
+{
+    "cwd": "/home/gustavo/.config/waybar",
+    "workspace": "/home/gustavo/.config/waybar",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-02-18 15:04:22.177 [info] sys.path used to run Server:
+   /home/gustavo/.vscode/extensions/ms-python.black-formatter-2024.6.0/bundled/libs
+   /home/gustavo/.vscode/extensions/ms-python.black-formatter-2024.6.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /usr/lib/python3.13/site-packages
+2025-02-18 15:04:22.182 [info] /bin/python -m black --version
+2025-02-18 15:04:22.182 [info] CWD formatter: /home/gustavo/.config/waybar
+2025-02-18 15:04:22.409 [info] Version info for formatter running for /home/gustavo/.config/waybar:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.13.1
+
+2025-02-18 15:04:22.409 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2025-02-18 15:04:23.788 [info] [Trace - 15:04:23] Sending notification 'textDocument/didChange'.
+2025-02-18 15:04:23.801 [info] [Trace - 15:04:23] Sending request 'textDocument/rangesFormatting - (1)'.
+2025-02-18 15:04:23.819 [info] [Trace - 15:04:23] Received notification 'window/logMessage'.
+2025-02-18 15:04:23.819 [info] /bin/python -m black --line-ranges 1-195 --stdin-filename /home/gustavo/.config/waybar/scripts/mediaplayer.py -
+2025-02-18 15:04:23.819 [info] [Trace - 15:04:23] Received notification 'window/logMessage'.
+2025-02-18 15:04:23.819 [info] CWD formatter: /home/gustavo/.config/waybar
+2025-02-18 15:04:24.063 [info] [Trace - 15:04:24] Received notification 'window/logMessage'.
+2025-02-18 15:04:24.063 [info] reformatted /home/gustavo/.config/waybar/scripts/mediaplayer.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2025-02-18 15:04:24.092 [info] [Trace - 15:04:24] Received response 'textDocument/rangesFormatting - (1)' in 291ms.
+2025-02-18 15:04:24.103 [info] [Trace - 15:04:24] Sending notification 'textDocument/didChange'.
+2025-02-18 15:05:16.642 [info] [Trace - 15:05:16] Sending notification 'textDocument/didClose'.
+2025-02-18 15:05:16.719 [info] [Trace - 15:05:16] Sending notification 'textDocument/didOpen'.
+2025-02-18 15:15:34.319 [info] [Trace - 15:15:34] Sending notification 'textDocument/didOpen'.
+2025-02-18 15:15:37.669 [info] [Trace - 15:15:37] Sending notification 'textDocument/didClose'.
+2025-02-18 15:15:41.193 [info] [Trace - 15:15:41] Sending notification 'textDocument/didOpen'.
+2025-02-18 15:15:41.196 [info] [Trace - 15:15:41] Sending notification 'textDocument/didClose'.
+2025-02-18 15:15:41.727 [info] [Trace - 15:15:41] Sending notification 'textDocument/didOpen'.
+2025-02-18 15:15:44.836 [info] [Trace - 15:15:44] Sending notification 'textDocument/didClose'.

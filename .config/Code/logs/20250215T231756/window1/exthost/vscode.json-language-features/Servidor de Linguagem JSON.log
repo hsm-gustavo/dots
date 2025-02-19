@@ -1,0 +1,27 @@
+2025-02-15 23:18:08.253 [info] l10n: Configured to file:///home/gustavo/.vscode/extensions/ms-ceintl.vscode-language-pack-pt-br-1.97.2025021209/translations/extensions/vscode.json-language-features.i18n.json
+2025-02-15 23:18:25.249 [info] read schema from vscode: vscode://schemas/settings/user
+2025-02-15 23:18:25.534 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2025-02-15 23:18:25.535 [info] read schema from vscode: vscode://schemas/ignoredSettings
+2025-02-15 23:18:25.581 [info] read schema from vscode: vscode://schemas/launch
+2025-02-15 23:18:25.586 [info] read schema from vscode: vscode://schemas/token-styling
+2025-02-15 23:18:25.587 [info] read schema from vscode: vscode://schemas/textmate-colors
+2025-02-15 23:18:25.588 [info] read schema from vscode: vscode://schemas/workbench-colors
+2025-02-15 23:18:25.885 [info] cancelled
+2025-02-15 23:18:26.871 [info] schema change detected vscode://schemas/settings/user
+2025-02-15 23:18:30.979 [info] schema change detected vscode://schemas/launch
+2025-02-15 23:18:31.156 [info] read schema from vscode: vscode://schemas/settings/user
+2025-02-15 23:18:31.300 [info] read schema from vscode: vscode://schemas/launch
+2025-02-15 23:18:31.520 [info] cancelled
+2025-02-15 23:18:39.970 [info] l10n: Configured to file:///home/gustavo/.vscode/extensions/ms-ceintl.vscode-language-pack-pt-br-1.97.2025021209/translations/extensions/vscode.json-language-features.i18n.json
+2025-02-15 23:18:40.025 [info] read schema from vscode: vscode://schemas/settings/user
+2025-02-15 23:18:40.026 [info] cancelled
+2025-02-15 23:18:40.063 [info] schema change detected vscode://schemas/settings/user
+2025-02-15 23:18:41.415 [info] schema change detected vscode://schemas/settings/user
+2025-02-15 23:18:43.845 [info] schema change detected vscode://schemas/settings/user
+2025-02-15 23:18:43.927 [info] schema change detected vscode://schemas/settings/user
+2025-02-15 23:18:46.248 [info] schema change detected vscode://schemas/settings/user
+2025-02-15 23:18:47.354 [info] cancelled
+2025-02-15 23:18:47.354 [info] cancelled
+2025-02-15 23:18:48.432 [info] schema change detected vscode://schemas/settings/user
+2025-02-15 23:19:18.746 [info] schema change detected vscode://schemas/settings/user
+2025-02-15 23:19:21.906 [info] schema change detected vscode://schemas/settings/user

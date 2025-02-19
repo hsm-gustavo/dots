@@ -1,0 +1,113 @@
+2025-02-18 13:37:54.737 [info] Extension host with pid 1555 started
+2025-02-18 13:37:54.819 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-02-18 13:37:54.821 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-18 13:37:54.973 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-18 13:37:54.974 [info] ExtensionService#_doActivateExtension natqe.reload, startup: true, activationEvent: '*'
+2025-02-18 13:37:54.990 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-18 13:37:54.991 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-18 13:37:55.225 [info] Eager extensions activated
+2025-02-18 13:37:55.330 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:55.331 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:55.331 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:55.388 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:55.412 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:55.510 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:56.328 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:56.429 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:56.467 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:58.759 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:58.760 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:58.772 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:58.787 [info] ExtensionService#_doActivateExtension Postman.postman-for-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-02-18 13:37:59.445 [info] Extension host terminating: renderer closed the MessagePort
+2025-02-18 13:37:59.477 [error] Failed to load translations for GitHub.copilot-chat from file:///home/gustavo/.vscode/extensions/github.copilot-chat-0.24.1/l10n/bundle.l10n.pt-br.json: Canceled
+2025-02-18 13:37:59.477 [error] Failed to load translations for vscode.debug-auto-launch from file:///home/gustavo/.vscode/extensions/ms-ceintl.vscode-language-pack-pt-br-1.97.2025021209/translations/extensions/vscode.debug-auto-launch.i18n.json: Canceled
+2025-02-18 13:37:59.477 [error] Failed to load translations for vscode.merge-conflict from file:///home/gustavo/.vscode/extensions/ms-ceintl.vscode-language-pack-pt-br-1.97.2025021209/translations/extensions/vscode.merge-conflict.i18n.json: Canceled
+2025-02-18 13:37:59.986 [warning] Using default string since no string found in i18n bundle that has the key: Sign in again to {0}
+2025-02-18 13:37:59.996 [warning] Using default string since no string found in i18n bundle that has the key: Generate tests using Copilot
+2025-02-18 13:38:00.086 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2025-02-18 13:38:00.086 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Always
+2025-02-18 13:38:00.086 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Smart
+2025-02-18 13:38:00.086 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: With Flag
+2025-02-18 13:38:00.086 [warning] Using default string since no string found in i18n bundle that has the key: Disabled
+2025-02-18 13:38:00.086 [warning] Using default string since no string found in i18n bundle that has the key: Always
+2025-02-18 13:38:00.086 [warning] Using default string since no string found in i18n bundle that has the key: Smart
+2025-02-18 13:38:00.086 [warning] Using default string since no string found in i18n bundle that has the key: Only With Flag
+2025-02-18 13:38:00.087 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach is disabled and not shown in status bar
+2025-02-18 13:38:00.087 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach to every Node.js process launched in the terminal
+2025-02-18 13:38:00.087 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach when running scripts that aren't in a node_modules folder
+2025-02-18 13:38:00.087 [warning] Using default string since no string found in i18n bundle that has the key: Only auto attach when the `--inspect` flag is given
+2025-02-18 13:38:00.087 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach in this workspace
+2025-02-18 13:38:00.087 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach on this machine
+2025-02-18 13:38:00.087 [warning] Using default string since no string found in i18n bundle that has the key: Temporarily disable auto attach in this session
+2025-02-18 13:38:00.087 [warning] Using default string since no string found in i18n bundle that has the key: Re-enable auto attach
+2025-02-18 13:38:00.087 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2025-02-18 13:38:00.109 [error] Canceled: Canceled
+    at jc (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:111857
+    at Array.forEach (<anonymous>)
+    at Uy.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:111797)
+    at PW.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10082)
+    at wC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-02-18 13:38:00.110 [error] Canceled: Canceled
+    at jc (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:111857
+    at Array.forEach (<anonymous>)
+    at Uy.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:111797)
+    at PW.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10082)
+    at wC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-02-18 13:38:00.110 [error] Canceled: Canceled
+    at jc (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1218)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:111857
+    at Array.forEach (<anonymous>)
+    at Uy.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:111797)
+    at PW.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10082)
+    at wC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:1434)
+    at ts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:15080)
+    at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:190:11628)
+    at MessagePortMain.emit (node:events:518:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-02-18 13:38:00.112 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2025-02-18 13:38:00.113 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2025-02-18 13:38:00.134 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+    at new XR (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:110406)
+    at Uy.U (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115016)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:112510)
+    at K0.loadCertificates (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:53517)
+    at Object.loadAdditionalCertificates (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:18628)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:723:53
+    at Generator.next (<anonymous>)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:35:71
+    at new Promise (<anonymous>)
+    at __awaiter (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:722:43
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:724:16
+    at Generator.next (<anonymous>)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:35:71
+    at new Promise (<anonymous>)
+    at __awaiter (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+    at getOrLoadAdditionalCertificates (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:720:12)
+    at addCertificatesToOptionsV1 (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:699:9)
+    at resolveProxyWithRequest (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:114:9)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:346:77
+    at new Promise (<anonymous>)
+    at PacProxyAgent.resolveP (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:346:54)
+    at PacProxyAgent.<anonymous> (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:74:37)
+    at Generator.next (<anonymous>)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:4:12)
+    at PacProxyAgent.connect (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/agent.js:56:16)
+    at /opt/visual-studio-code/resources/app/node_modules/agent-base/dist/index.js:132:30
+2025-02-18 13:38:00.138 [info] Extension host with pid 1555 exiting with code 0

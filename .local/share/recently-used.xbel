@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/gustavo/Imagens/wallpapers/the-herta.webp" added="2025-02-13T09:47:38.292357Z" modified="2025-02-13T11:18:40.007357Z" visited="2025-02-13T09:47:38.292358Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Zen" exec="&apos;zen %u&apos;" modified="2025-02-13T11:18:40.007354Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gustavo/Imagens/wallpapers/the-herta.jpg" added="2025-02-13T11:19:54.576723Z" modified="2025-02-13T11:22:55.304200Z" visited="2025-02-13T11:19:54.576724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Zen" exec="&apos;zen %u&apos;" modified="2025-02-13T11:22:55.304197Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gustavo/2025-02-17%2019-59-27.mkv" added="2025-02-17T23:04:26.896882Z" modified="2025-02-17T23:04:26.896887Z" visited="2025-02-17T23:04:26.896883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="HandBrake" exec="&apos;fr.handbrake.ghb %u&apos;" modified="2025-02-17T23:04:26.896884Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gustavo/2025-02-17%2020-03-43.mkv" added="2025-02-17T23:04:53.678640Z" modified="2025-02-17T23:04:53.678645Z" visited="2025-02-17T23:04:53.678641Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="HandBrake" exec="&apos;fr.handbrake.ghb %u&apos;" modified="2025-02-17T23:04:53.678642Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gustavo/V%C3%ADdeos/2025-02-17%2019-59-27.mp4" added="2025-02-17T23:08:40.250291Z" modified="2025-02-17T23:08:40.250306Z" visited="2025-02-17T23:08:40.250300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Zen" exec="&apos;zen %u&apos;" modified="2025-02-17T23:08:40.250303Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gustavo/V%C3%ADdeos/2025-02-17%2020-03-43.mp4" added="2025-02-17T23:09:10.178462Z" modified="2025-02-17T23:09:10.178470Z" visited="2025-02-17T23:09:10.178463Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Zen" exec="&apos;zen %u&apos;" modified="2025-02-17T23:09:10.178466Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gustavo/2025-02-17%2021-02-25.mkv" added="2025-02-18T00:02:50.609054Z" modified="2025-02-18T00:02:50.609067Z" visited="2025-02-18T00:02:50.609055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="HandBrake" exec="&apos;fr.handbrake.ghb %u&apos;" modified="2025-02-18T00:02:50.609065Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gustavo/V%C3%ADdeos/2025-02-17%2021-02-25.mp4" added="2025-02-18T00:03:22.692666Z" modified="2025-02-18T00:03:22.692676Z" visited="2025-02-18T00:03:22.692667Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Zen" exec="&apos;zen %u&apos;" modified="2025-02-18T00:03:22.692669Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

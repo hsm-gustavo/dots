@@ -1,0 +1,78 @@
+2025-02-13 14:52:39.697 [info] Name: isort
+2025-02-13 14:52:39.697 [info] Module: isort
+2025-02-13 14:52:39.697 [info] Python extension loading
+2025-02-13 14:52:39.697 [info] Waiting for interpreter from python extension.
+2025-02-13 14:52:39.835 [info] No interpreter found from setting isort.interpreter
+2025-02-13 14:52:39.835 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/.config/waybar
+2025-02-13 14:52:39.835 [info] Python extension loaded
+2025-02-13 14:52:39.873 [info] Interpreter from ms-python.python extension for /home/gustavo/.config/waybar: /bin/python
+2025-02-13 14:52:39.877 [info] No interpreter found from setting isort.interpreter
+2025-02-13 14:52:39.877 [info] Getting interpreter from ms-python.python extension for workspace /home/gustavo/.config/waybar
+2025-02-13 14:52:39.883 [info] Interpreter from ms-python.python extension for /home/gustavo/.config/waybar: /bin/python
+2025-02-13 14:52:39.908 [info] Server run command: /bin/python /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool/lsp_server.py
+2025-02-13 14:52:39.910 [info] Server: Start requested.
+2025-02-13 14:52:41.050 [info] CWD Server: /home/gustavo/.config/waybar
+2025-02-13 14:52:41.050 [info] sys.path used to run Server:
+   /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/libs
+   /home/gustavo/.vscode/extensions/ms-python.isort-2023.10.1/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /usr/lib/python3.13/site-packages
+2025-02-13 14:52:41.050 [info] Settings used to run Server:
+[
+    {
+        "check": false,
+        "cwd": "/home/gustavo/.config/waybar",
+        "workspace": "file:///home/gustavo/.config/waybar",
+        "args": [
+            "--profile",
+            "black"
+        ],
+        "path": [],
+        "severity": {
+            "W": "Warning",
+            "E": "Hint"
+        },
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-02-13 14:52:41.050 [info] Global settings:
+{
+    "check": false,
+    "cwd": "/home/gustavo/.config/waybar",
+    "workspace": "/home/gustavo/.config/waybar",
+    "args": [
+        "--profile",
+        "black"
+    ],
+    "path": [],
+    "severity": {
+        "W": "Warning",
+        "E": "Hint"
+    },
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-02-13 14:52:41.055 [info] /bin/python -m isort --version-number
+2025-02-13 14:52:41.056 [info] CWD Linter: /home/gustavo/.config/waybar
+2025-02-13 14:52:41.065 [info] Version info for isort running for /home/gustavo/.config/waybar:
+5.11.5
+
+2025-02-13 14:52:41.065 [info] SUPPORTED isort>=5.10.1
+FOUND isort==5.11.5
+
+2025-02-13 14:52:41.082 [info] [Trace - 14:52:41] Received notification 'textDocument/publishDiagnostics'.
+2025-02-13 14:52:41.101 [info] [Trace - 14:52:41] Sending request 'textDocument/codeAction - (1)'.
+2025-02-13 14:52:41.111 [info] [Trace - 14:52:41] Received response 'textDocument/codeAction - (1)' in 10ms.
+2025-02-13 14:52:41.242 [info] [Trace - 14:52:41] Sending request 'textDocument/codeAction - (2)'.
+2025-02-13 14:52:41.260 [info] [Trace - 14:52:41] Received response 'textDocument/codeAction - (2)' in 18ms.
+2025-02-13 14:52:43.422 [info] [Trace - 14:52:43] Sending request 'textDocument/codeAction - (3)'.
+2025-02-13 14:52:43.425 [info] [Trace - 14:52:43] Received response 'textDocument/codeAction - (3)' in 3ms.

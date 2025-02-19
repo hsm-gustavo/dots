@@ -1,0 +1,10 @@
+2025-02-18 13:38:17.590 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2025-02-18 13:38:18.574 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/gustavo/.vscode/extensions/extensions.json","path":"/home/gustavo/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-18 13:38:18.765 [info] Installing extension: bradlc.vscode-tailwindcss {"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json","path":"/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-18 13:38:19.251 [info] Extension signature verification result for bradlc.vscode-tailwindcss: UnknownError. Executed: true. Duration: 35ms.
+2025-02-18 13:38:19.342 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.6: bradlc.vscode-tailwindcss
+2025-02-18 13:38:19.357 [info] Renamed to /home/gustavo/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.6
+2025-02-18 13:38:19.406 [info] Marked extension as removed bradlc.vscode-tailwindcss-0.14.5
+2025-02-18 13:38:19.430 [info] Marked extension as removed bradlc.vscode-tailwindcss-0.14.5
+2025-02-18 13:38:19.433 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/gustavo/.vscode/extensions/extensions.json
+2025-02-18 13:38:19.433 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json

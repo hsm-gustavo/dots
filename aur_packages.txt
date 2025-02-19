@@ -1,0 +1,8 @@
+aura
+nvm
+spicetify-cli
+spotify
+tofi
+visual-studio-code-bin
+wlogout
+zen-browser-bin

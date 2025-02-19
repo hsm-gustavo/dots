@@ -1,0 +1,30 @@
+2025-02-15 08:43:03.022 [info] Getting Manifest... github.copilot
+2025-02-15 08:43:03.023 [info] Getting Manifest... github.copilot-chat
+2025-02-15 08:43:04.287 [info] Installing extension: github.copilot {"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/gustavo/.vscode/extensions/extensions.json","path":"/home/gustavo/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-15 08:43:04.290 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/gustavo/.vscode/extensions/extensions.json","path":"/home/gustavo/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-15 08:43:04.446 [info] Installing extension: github.copilot {"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json","path":"/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-15 08:43:04.450 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json","path":"/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-02-15 08:43:04.501 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 vscode-userdata:/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json
+2025-02-15 08:43:04.584 [info] Uninstalling the extension without including packed extension ritwickdey.liveserver@5.7.9
+2025-02-15 08:43:04.584 [info] Uninstalling the extension without checking dependents ritwickdey.liveserver@5.7.9
+2025-02-15 08:43:04.607 [info] Marked extension as removed ritwickdey.liveserver-5.7.9
+2025-02-15 08:43:04.792 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 vscode-userdata:/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json
+2025-02-15 08:43:04.793 [info] Getting Manifest... ritwickdey.liveserver
+2025-02-15 08:43:05.074 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json","path":"/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.97.1","date":"2025-02-10T13:13:58.153Z"}}
+2025-02-15 08:43:05.074 [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+2025-02-15 08:43:05.124 [info] Removed the extension from removed list: ritwickdey.liveserver
+2025-02-15 08:43:05.227 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json
+2025-02-15 08:43:06.901 [info] Extension signature verification result for github.copilot-chat: UnknownError. Executed: true. Duration: 33ms.
+2025-02-15 08:43:07.029 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 6ms.
+2025-02-15 08:43:07.291 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/github.copilot-chat-0.24.1: github.copilot-chat
+2025-02-15 08:43:07.306 [info] Renamed to /home/gustavo/.vscode/extensions/github.copilot-chat-0.24.1
+2025-02-15 08:43:07.334 [info] Marked extension as removed github.copilot-chat-0.24.0
+2025-02-15 08:43:07.427 [info] Marked extension as removed github.copilot-chat-0.24.0
+2025-02-15 08:43:07.432 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/gustavo/.vscode/extensions/extensions.json
+2025-02-15 08:43:07.432 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json
+2025-02-15 08:43:07.817 [info] Extracted extension to file:///home/gustavo/.vscode/extensions/github.copilot-1.271.0: github.copilot
+2025-02-15 08:43:07.834 [info] Renamed to /home/gustavo/.vscode/extensions/github.copilot-1.271.0
+2025-02-15 08:43:07.853 [info] Marked extension as removed github.copilot-1.270.0
+2025-02-15 08:43:07.932 [info] Marked extension as removed github.copilot-1.270.0
+2025-02-15 08:43:07.937 [info] Extension installed successfully: github.copilot vscode-userdata:/home/gustavo/.vscode/extensions/extensions.json
+2025-02-15 08:43:07.938 [info] Extension installed successfully: github.copilot vscode-userdata:/home/gustavo/.config/Code/User/profiles/48a945fe/extensions.json

@@ -1,0 +1,54 @@
+2025-02-18 13:38:10.555 [info] Using the Electron fetcher.
+2025-02-18 13:38:10.555 [info] Initializing Git extension service.
+2025-02-18 13:38:10.555 [info] Successfully activated the vscode.git extension.
+2025-02-18 13:38:10.555 [info] Enablement state of the vscode.git extension: true.
+2025-02-18 13:38:10.555 [info] Successfully registered Git commit message provider.
+2025-02-18 13:38:12.272 [info] Logged in as hsm-gustavo
+2025-02-18 13:38:12.992 [info] Got Copilot token for hsm-gustavo
+2025-02-18 13:38:13.096 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 13:38:13.096 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-02-18 13:38:13.114 [info] Registering default platform agent...
+2025-02-18 13:38:13.400 [info] Fetched model metadata in 390ms c5869e14-546a-4c30-a0eb-aa73b0f8a37e
+2025-02-18 13:38:13.494 [info] activationBlocker from 'languageModelAccess' took for 970ms
+2025-02-18 14:03:13.001 [info] Logged in as hsm-gustavo
+2025-02-18 14:03:13.911 [info] Got Copilot token for hsm-gustavo
+2025-02-18 14:03:13.924 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 14:28:13.917 [info] Logged in as hsm-gustavo
+2025-02-18 14:28:14.631 [info] Got Copilot token for hsm-gustavo
+2025-02-18 14:28:14.643 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 14:53:14.638 [info] Logged in as hsm-gustavo
+2025-02-18 14:53:15.351 [info] Got Copilot token for hsm-gustavo
+2025-02-18 14:53:15.367 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 15:08:15.911 [info] Fetched model metadata in 535ms 934295ab-c577-4e36-87fb-efb61d2eebbf
+2025-02-18 15:18:15.355 [info] Logged in as hsm-gustavo
+2025-02-18 15:18:16.039 [info] Got Copilot token for hsm-gustavo
+2025-02-18 15:18:16.057 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 15:18:16.606 [info] Fetched model metadata in 545ms c03496dc-cafb-4e5f-99a1-6b1d530bbc9e
+2025-02-18 15:43:16.045 [info] Logged in as hsm-gustavo
+2025-02-18 15:43:16.823 [info] Got Copilot token for hsm-gustavo
+2025-02-18 15:43:16.834 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 15:43:17.449 [info] Fetched model metadata in 609ms 23f0a666-0179-4ec1-960b-d8b54240205f
+2025-02-18 16:08:16.828 [info] Logged in as hsm-gustavo
+2025-02-18 16:08:17.690 [info] Got Copilot token for hsm-gustavo
+2025-02-18 16:08:17.708 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 16:33:17.696 [info] Logged in as hsm-gustavo
+2025-02-18 16:33:18.426 [info] Got Copilot token for hsm-gustavo
+2025-02-18 16:33:18.441 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 16:58:18.437 [info] Logged in as hsm-gustavo
+2025-02-18 16:58:19.166 [info] Got Copilot token for hsm-gustavo
+2025-02-18 16:58:19.178 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 17:23:19.175 [info] Logged in as hsm-gustavo
+2025-02-18 17:23:19.986 [info] Got Copilot token for hsm-gustavo
+2025-02-18 17:23:20.000 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 17:48:19.991 [info] Logged in as hsm-gustavo
+2025-02-18 17:48:20.648 [info] Got Copilot token for hsm-gustavo
+2025-02-18 17:48:20.660 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 18:13:20.655 [info] Logged in as hsm-gustavo
+2025-02-18 18:13:21.363 [info] Got Copilot token for hsm-gustavo
+2025-02-18 18:13:21.374 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 18:38:21.369 [info] Logged in as hsm-gustavo
+2025-02-18 18:38:22.281 [info] Got Copilot token for hsm-gustavo
+2025-02-18 18:38:22.294 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-02-18 19:03:22.288 [info] Logged in as hsm-gustavo
+2025-02-18 19:03:22.981 [info] Got Copilot token for hsm-gustavo
+2025-02-18 19:03:22.991 [info] copilot token chat_enabled: true, sku: free_limited_copilot

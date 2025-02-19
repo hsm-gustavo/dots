@@ -1,0 +1,109 @@
+{
+  //og config
+  "editor.fontFamily": "JetBrains Mono, 'Courier New', monospace",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": false,
+    "yaml": false,
+    "html": true,
+    "javascript": true,
+    "python": true,
+    "cpp": true,
+    "java": true,
+    "typescript": true,
+    "rust": false
+  },
+  // editor
+  "editor.wordWrap": "on",
+  "editor.fontSize": 14,
+  "editor.bracketPairColorization.enabled": false,
+  "editor.guides.bracketPairs": false,
+  "editor.minimap.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "files.autoSave": "afterDelay",
+  "editor.fontLigatures": true,
+
+  // explorer
+  "explorer.compactFolders": false,
+
+  // workbench
+  "workbench.editor.enablePreview": false,
+
+  // prettier
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.enable": true,
+  "prettier.singleQuote": false,
+  "prettier.semi": false,
+
+  // terminal
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "kitty": {
+      "path": "kitty"
+    }
+  },
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "right"
+  },
+  "code-runner.runInTerminal": true,
+  "git.autofetch": true,
+  "terminal.integrated.inheritEnv": false,
+  // python format
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "always"
+    }
+  },
+  "isort.args": ["--profile", "black"],
+
+  //auto docstring
+  "autoDocstring.docstringFormat": "numpy",
+
+  "jupyter.interactiveWindow.textEditor.executeSelection": true,
+  "workbench.startupEditor": "none",
+  "redhat.telemetry.enabled": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "cmake.configureOnOpen": true,
+  "boot-java.rewrite.reconcile": true,
+  "codesnap.target": "window",
+  "terminal.integrated.env.windows": {},
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+
+  // tailwind autocomplete on react
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascript",
+    "html": "HTML"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+
+  // eslint
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll": "explicit"
+  },
+  "window.titleBarStyle": "custom",
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmPasteNative": false,
+  "prisma.showPrismaDataPlatformNotification": false,
+  "github.copilot.editor.enableAutoCompletions": true,
+
+  "catppuccin.accentColor": "mauve",
+  "catppuccin-icons.monochrome": false,
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
