@@ -2,6 +2,8 @@
 
 ## Preview
 
+https://github.com/user-attachments/assets/a7cad809-11da-4a61-b97d-dc4a35ddcfad
+
 ## Packages
 
 **Important:** Before installing the packages, please review the content of each `.txt` file and modify them to suit your needs.
